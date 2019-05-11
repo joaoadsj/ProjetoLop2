@@ -1,7 +1,8 @@
 # ProjetoLop2
 etapa 2
 //Nome: João Andre Da SIlva Júnior; Subturma:D 
-var x=210
+ 
+ var x=210
     
   function setup() {
   createCanvas(400, 400);
